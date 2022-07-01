@@ -39,6 +39,5 @@ See more details on [Jekyll-compose](https://github.com/jekyll/jekyll-compose);
  $ bundle exec jekyll post "My New Post"
 ```
  2. Link post
-```
-[Link]({% post_url year-month-day-post-name %})
-```
+[Jekyll-Linking-to-posts](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts)
+
