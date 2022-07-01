@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leetcode Day3 Longest Substring Without Repeating Characters
+title: Leetcode 0003 Longest Substring Without Repeating Characters
 date: 2022-06-20 11:04 -0500
 categories: Leetcode-Diary
 ---

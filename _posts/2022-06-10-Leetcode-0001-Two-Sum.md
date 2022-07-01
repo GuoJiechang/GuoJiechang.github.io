@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leetcode Day1 Two Sum"
+title:  "Leetcode 0001 Two Sum"
 categories: Leetcode-Diary
 ---
 

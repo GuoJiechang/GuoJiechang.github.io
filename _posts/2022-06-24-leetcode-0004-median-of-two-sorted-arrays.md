@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Leetcode Day4 Median of Two Sorted Arrays
+title: Leetcode 0004 Median of Two Sorted Arrays
 date: 2022-06-24 11:19 -0500
+categories: Leetcode-Diary
 ---
 # Median of Two Sorted Arrays problem results
 

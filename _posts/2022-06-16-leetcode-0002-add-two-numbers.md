@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leetcode Day 2 Add Two Numbers
+title: Leetcode 0002 Add Two Numbers
 date: 2022-06-16 12:08 -0500
 categories: Leetcode-Diary
 ---
