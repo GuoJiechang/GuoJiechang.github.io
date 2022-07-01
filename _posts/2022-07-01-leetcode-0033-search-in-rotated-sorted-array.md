@@ -6,7 +6,7 @@ categories: Leetcode-Diary
 ---
 # Search in Rotated Sorted Array problem results
 
-[Search in Rotated Sorted Array](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 ![Result](/assets/images/search_in_rotated_sorted_array.png)
 
