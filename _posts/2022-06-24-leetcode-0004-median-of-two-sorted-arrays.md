@@ -11,7 +11,7 @@ categories: Leetcode-Diary
 ![Result](/assets/images/median_of_two_sorted_array.png)
 
 # First Blood
-My first solution is so brute force and the run time complexity is not O(log(m+n))。But I think this solution is more straightforward to come up with. It could be better because there's no need to sort the whole array, it can be stopped when half of the elements are sorted.
+My first solution is so brute force and the run time complexity is not O(log(m+n)). But I think this solution is more straightforward to come up with. It could be better because there's no need to sort the whole array, it can be stopped when half of the elements are sorted.
 In other words, stop looping when the median is found.
 
 ```
@@ -124,13 +124,11 @@ if the len is even, the median will be (std::max(num1_left_max,num2_left_max)+st
 if the len is odd, the median will be (std::max(num1_left_max,num2_left_max))
 
 if not, we do the binary search, 
-if num1_left_max > num2_right_min, the num1_left_max should be in the right side of the nums1, in other words, we need to contract the size of left side of the nums1 array, the possible cut position should be on the left of current cut postion.
+if num1_left_max > num2_right_min, the num1_left_max should be on the right side of the nums1, in other words, we need to contract the size of the left side of the nums1 array, the possible cut position should be on the left of the current cut position.
 let high = i - 1;
 
-if num2_left_max > num1_right_min, num2_left_max should be in the right side fo nums2，we need to expand the size of left side of the nums1 array, so that the left side of nums2 will be contract.
+if num2_left_max > num1_right_min, num2_left_max should be on the right side of nums2， we need to expand the size of the left side of the nums1 array, so that the left side of nums2 will be contracted.
 let low = i + 1;
-
-
 
 
 ```
