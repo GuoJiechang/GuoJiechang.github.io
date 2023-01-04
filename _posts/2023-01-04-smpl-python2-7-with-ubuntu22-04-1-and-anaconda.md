@@ -6,7 +6,7 @@ categories: Technical-Notes
 ---
 After some effort in trying to run SMPL python on macOS and failing, I decided to use Ubuntu.
 Install Ubuntu dual system with Windows on my PC in my lab is another story.
-Here I wrote down the process for future usage. I referenced a lot from this post in Chinese is very detailed, however, need some updates on some detail. [](https://blog.csdn.net/weixin_42145554/article/details/111381447)
+Here I wrote down the process for future usage. I referenced a lot from this post in Chinese is very detailed, however, need some updates on some detail. [Reference](https://blog.csdn.net/weixin_42145554/article/details/111381447)
 
 ## Environment:
 Ubuntu22.04.1
