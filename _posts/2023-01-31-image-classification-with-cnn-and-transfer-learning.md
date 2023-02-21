@@ -2,11 +2,13 @@
 layout: post
 title: Image classification with CNN and Transfer Learning
 date: 2023-01-31 12:38 -0600
+categories: CV_Notes
+tag: CV
 ---
 # COSC 6373: Computer Vision  In-Class Assignment 2
 # Image classification with Convolutional Neural Networks and Transfer Learning
 
-This note is a assignment from COSC 6373 assignment. 
+This note is an assignment from COSC 6373 assignment. 
 
 
 # Goal

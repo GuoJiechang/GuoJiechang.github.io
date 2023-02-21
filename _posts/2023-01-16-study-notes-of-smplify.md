@@ -2,7 +2,7 @@
 layout: post
 title: Study Notes of Smplify
 date: 2023-01-16 14:32 -0600
-categories: Human Pose Estimation
+categories: Human_Pose_Estimation
 ---
 After setting up the environment for Smplify, run the code as followed:
 ```
@@ -136,6 +136,3 @@ The equation is shown in the image below,
 ![Eq](/assets/images/sphere_collision_term.png)
 * Shape prior term - objs['betas']: to penalty shape parameters derivated from the mean shape.
 ![Eq](/assets/images/shape_prior_term.png)
-
-
-
