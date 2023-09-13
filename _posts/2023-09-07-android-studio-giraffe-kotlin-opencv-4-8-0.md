@@ -3,9 +3,6 @@ layout: post
 title: Android Studio Giraffe + Kotlin + OpenCV 4.8.0
 date: 2023-09-07 13:22 -0500
 ---
-
-# Android Studio Giraffe + Kotlin + OpenCV 4.8.0
-
 After hours of attempting, I finally integrated OpenCV 4.8.0 to Android Studio Giraffe with the Kotlin project.
 
 I’ll skip the steps for downloading AS and OpenCV. Just remember to download the Android version of OpenCV and extract the zipped file to whatever place you want.
